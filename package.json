@@ -1,0 +1,22 @@
+{
+  "name": "testapi-ilcs",
+  "version": "1.0.0",
+  "description": "test api for ilcs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinxlinlin/testapi-ilcs.git"
+  },
+  "author": "sinxlinlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinxlinlin/testapi-ilcs/issues"
+  },
+  "homepage": "https://github.com/sinxlinlin/testapi-ilcs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
